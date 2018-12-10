@@ -1,0 +1,11 @@
+# This is our first day using React!
+
+#to run the application
+
+# in Terminal run the command
+
+npm start
+
+# then go to 
+
+https://localhost:3000/
